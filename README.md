@@ -13,4 +13,4 @@ The data consists of various features such as Medals won, Players, City, Country
 
 # Who am I?
 
-My name is Devashri and I am currently in B.E. Computer 3rd year in L.D. College of Engineering. I am very enthusiastic to learn about Machine Learning and about Data analysis. I want to pursue my career in Data Science Job and as a Machine Learning Engineer.
+My name is Devashri Narendra Chauhan and I am currently in B.E. Computer 3rd year in L.D. College of Engineering. I am very enthusiastic to learn about Machine Learning and about Data analysis. I want to pursue my career in Data Science Job and as a Machine Learning Engineer.
